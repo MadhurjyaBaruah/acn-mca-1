@@ -26,7 +26,7 @@ Built on a **hierarchical (extended) star topology** with two core switches so n
 
   * **`Acc-Srv`:** Central company servers (`VLAN 60` — `SRV-DNS`, `SRV-FILE`, `SRV-HR`, `SRV-FIN`, and `SRV-WEB`).
 
-### Jorhat Branch Office (`10.20.0.0/24` — 30 Staff)
+### Jorhat Branch Office (`10.20.0.0/24` , 30 Staff)
 
 Built on a **simple star topology** suited for a smaller team:
 
