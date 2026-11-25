@@ -2,7 +2,7 @@
 
 **Company:** TechNova Solutions Pvt. Ltd.
 
-**Lab Topology File:** [tnova-v2-c2.pkt](https://raw.githubusercontent.com/MadhurjyaBaruah/acn-mca-1/main/tnova-v2-c2.pkt) *(Click to download — Cisco Packet Tracer)*
+**Lab Topology File:** [tnova-v2-c2.pkt](https://raw.githubusercontent.com/MadhurjyaBaruah/acn-mca-1/main/tnova-v2-c2.pkt) *(Click to download-Cisco Packet Tracer)*
 
 ## 1. Network Structure & Architecture
 
