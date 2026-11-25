@@ -1,3 +1,47 @@
+<div align="center">
+
+<p align="center">ASSIGNMENT ON</p>
+
+<h1 align="center">DESIGN AND MANAGEMENT OF A SECURE CORPORATE COMPUTER NETWORK</h1>
+
+<p align="center">
+<b>Subject:</b> ACN<br>
+<b>Subject Code:</b> CS2A501<br>
+<b>Assignment No.:</b> I <br>
+
+<b>Semester:</b> 1<sup>st</sup>
+</p>
+
+<p align="center"><i>Submitted in partial fulfilment of course requirements</i></p>
+
+<p align="center"><img src="images/ku_logo.png" width="330" alt="Kaziranga University logo"></p>
+
+<p align="center">
+<i>Submitted by:</i><br>
+<b>MADHURJYA BARUAH</b><br>
+Enrolment No.: CS26MCAGN014
+</p>
+
+<p align="center">
+<i>Submitted to:</i><br>
+<b>DR. SIDDHARTHA ADHYAPOK</b><br>
+
+School of Computing Sciences
+</p>
+
+<p align="center">Date of Submission: 25-11-2026</p>
+
+<p align="center">
+<b>Department of Information Technology</b><br>
+<b>Master of Computer Applications</b><br>
+<b>The Assam Kaziranga University, Jorhat, Assam</b><br>
+<b>November 2026</b>
+</p>
+
+</div>
+
+---
+
 # Network Structure & Simulation Overview
 
 **Company:** TechNova Solutions Pvt. Ltd.
@@ -87,3 +131,6 @@ Built on a **simple star topology** suited for a smaller team:
   1. All access links connected to **`HQ-Core1`** go down (indicated by the red link triangles), simulating a primary core switch failure.
 
   2. Traffic from **`DEV-PC1`** automatically reroutes through the backup uplink to **`HQ-Core2`** to reach the server VLAN and return without dropping the connection.
+
+ # Conclusion
+ This network architecture provides TechNova Solutions with a secure, reliable, and scalable setup that connects all 130 employees across the Guwahati head office, Jorhat branch, and remote home locations. By separating departments with VLANs, eliminating single points of failure with dual core switches, and securing external connections with encrypted VPN tunnels, the design protects sensitive company data while supporting smooth daily collaboration and future expansion.
