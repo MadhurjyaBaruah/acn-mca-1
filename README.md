@@ -8,7 +8,7 @@
 
 TechNova Solutions connects **130 employees** across two offices and remote home locations, using **VLANs** to keep each department's traffic isolated and secure.
 
-### Guwahati Head Office (`10.10.0.0/22` — 100 Staff)
+### Guwahati Head Office (`10.10.0.0/22` , 100 Staff)
 
 Built on a **hierarchical (extended) star topology** with two core switches so no single device failure can take down the office:
 
