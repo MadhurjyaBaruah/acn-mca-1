@@ -40,7 +40,9 @@ Built on a **simple star topology** suited for a smaller team:
 
 ## 2. Simple Explanation of the Network Diagram
 
-![TechNova Network Architecture Diagram](images/123.png)
+![TechNova Network Architecture Diagram1](images/technova_pt_topology_labelled.png)
+
+![TechNova Network Architecture Diagram2](images/tnova-architecture.png)
 
 * **No Single Point of Failure (Dual Uplinks):** Every access switch in Guwahati has two upward cables—one to `HQ-Core1` and one to `HQ-Core2`. If one core switch or cable fails, traffic automatically shifts to the second switch without disconnecting staff.
 
